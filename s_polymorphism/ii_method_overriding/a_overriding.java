@@ -11,7 +11,7 @@ class Daughter extends Dad {
     @Override
     // overriding method
     void cooking() {
-        System.out.println("Papa ki pari is preparing meal.");
+        System.out.println("Daughter is preparing meal.");
     }
 }
 
