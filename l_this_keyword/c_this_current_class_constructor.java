@@ -17,4 +17,4 @@ public class c_this_current_class_constructor {
         // Nums obj = new Nums(25);
         new Nums(25);
     }
-}
+} 
