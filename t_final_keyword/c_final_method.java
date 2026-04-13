@@ -1,4 +1,4 @@
-package t_final_keyword;
+      package t_final_keyword;
 
 class Dad {
     // overridden method
@@ -17,7 +17,7 @@ class Daughter extends Dad {
 }
 public class c_final_method {
     public static void main(String[] args) {
-        Daughter keti = new Daughter();
-        keti.cooking();
+        Daughter g = new Daughter();
+        g.cooking();
     }
 }
