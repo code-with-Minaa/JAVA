@@ -9,7 +9,7 @@ class Employee {
     }
 }
 
-public class d_paremeterized_constructor {
+public class d_parameterized_constructor {
     public static void main(String[] args) {
         new Employee(23);
     }
